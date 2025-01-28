@@ -1,19 +1,20 @@
-# Football Transfers Analysis Project
+# Football Transfers Analysis
+
+## Introduction
+This project analyzes football transfer data spanning two seasons (2021/2022 and 2022/2023) using data science techniques. The primary goal is to explore the economic implications and trends of player transfers across various countries.
 
 ## Case Description
-This Football Transfers Analysis project involves extensive data analysis of the intricacies and economic patterns within international football ("soccer" in the U.S.) transfers. It delves into the movement of players from one association to another, offering an in-depth overview of the economics of international football.
+This analysis focuses on the transfer of players between clubs, examining aspects such as the number of transfers, total transfer fees, and trends over the specified seasons. It aims to provide insights into the dynamics of football transfers and their impact on the global football economy.
 
 ## Project Content
-1. **Project files:**
-   - **Database_Review.xlsx**: Contains the raw football transfer data for the seasons 2021/2022 and 2022/2023.
-   - **Aggregate_European_Transfers_Analysis.xlsx**: Provides a summary analysis of the transfer data.
-   - **European_Transfers_by_Country_Analysis.xlsx**: Analyzes European transfer statistics.
-   - **Top5_Transfer_Fees.xlsx**: Visualizes the top 5 transfers based on value.
-  
+The project includes the following key tasks and methodologies:
+
+1. **Data Processing, Manipulation, and Filtering**: Utilizing Excel for initial data cleaning and preparation.
+2. **Advanced Excel Functions**: Implementing functions such as VLOOKUP and SUMIF to analyze transfer data.
+3. **Data Visualization**: Creating visual representations of transfer trends after data aggregation.
 
 ## Skills Used
-- **Data Processing**: Cleaning and organizing datasets in Excel.
-- **Data Analysis**: Utilizing Excel functions and formulas to analyze transfer patterns.
-- **Filtering**: Applying filters to extract relevant data for specific analyses.
-- **Visualization**: Creating charts and graphs to represent transfer data visually.
-- **Reporting**: Compiling insights into comprehensive reports.
+- Data Processing and Analysis in Excel
+- Advanced Excel Functions
+- Data Visualization Techniques
+
